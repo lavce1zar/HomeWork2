@@ -11,6 +11,8 @@ namespace HomeWork2.SmartCalcWithPars
             Console.WriteLine("Welcome to the smart calculator program!");
 
             PrintMenu();
+
+            Console.WriteLine("Good bye! See you again next time!");
         }
 
         static void PrintMenu()
